@@ -11,8 +11,8 @@ In this version:
   
 Possible improvements:
 
-	- Ants live in colonies, there should be some representation of that in the initial placement
-	- ...or in the movement.
+	- The main goal is to set a heuristic based on real ant's movement pattern.
+	- Ants live in colonies, there should be some representation of that in the initial placement and the resources storage
 	- Ants should have a life cycle (at least two modes: eat and work).
 
 Author: Abollo Palacios, José Carlos
